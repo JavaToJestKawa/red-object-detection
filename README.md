@@ -5,12 +5,12 @@ Red object detection and tracking implementation using Python and OpenCV.
 ## Demo
 
 Example output video:  
-[https://your-demo-link](https://drive.google.com/file/d/1Mx0MzDzRHkVmovq7n0_dfwJs-JjEtOYY/view?usp=drive_link)
+[https://demo-link](https://drive.google.com/file/d/1Mx0MzDzRHkVmovq7n0_dfwJs-JjEtOYY/view?usp=drive_link)
 
 ## Dataset
 
 Example dataset (video):  
-[https://your-dataset-link](https://drive.google.com/file/d/1sxZwnZt8FFccczRNtm3CiOMRxoPwQDSn/view?usp=drive_link)
+[https://dataset-link](https://drive.google.com/file/d/1sxZwnZt8FFccczRNtm3CiOMRxoPwQDSn/view?usp=drive_link)
 
 ## Features
 
